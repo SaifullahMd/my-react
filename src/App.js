@@ -24,7 +24,7 @@ function App() {
   }, [])
 
 
-  // // [] => dependancy
+  // // [] => dependancy -
 
   const handleIncriment = () => {
     setCounter(counter + 1)
