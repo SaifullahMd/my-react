@@ -33,13 +33,14 @@ function App() {
 
   return (
     <div className="App">
-        {/* <NavScrollExample/>
+        <NavScrollExample/>
         <h1>
         welcome : {counter}
         <button onClick={handleIncriment}>
            press me
         </button>
-      </h1>  */}
+      </h1> 
+      <h1>new code added</h1>
       <StateAndEffect />
     </div>
   );
